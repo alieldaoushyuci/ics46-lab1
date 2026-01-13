@@ -1,0 +1,4 @@
+/Users/alieldaoushy/Downloads/Introduction/CMakeFiles/intro_lab.dir
+/Users/alieldaoushy/Downloads/Introduction/CMakeFiles/intro_lab_tests.dir
+/Users/alieldaoushy/Downloads/Introduction/CMakeFiles/edit_cache.dir
+/Users/alieldaoushy/Downloads/Introduction/CMakeFiles/rebuild_cache.dir
